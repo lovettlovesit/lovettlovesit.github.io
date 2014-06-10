@@ -1,0 +1,454 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+
+	#about-header{
+		display:none;
+	}
+
+	.section-header{
+		font-size: 70px;
+	}
+
+	#proposal-header{
+		display: none;
+	}
+
+	#photos{
+		display: none;
+	}
+
+	#wedding-header{
+		display:none;
+	}
+
+	#wedding-party{
+		display:none;
+	}
+
+	#registry{
+		display:none;
+	}
+
+	.header-flower{
+		font-size: 60px;
+	}
+
+		.main-container{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.main-photo{
+	display: inline-block;
+	margin: 0px auto;
+	width: 100%;
+	text-align: center;
+}
+
+	#header-pic{
+		width: 500px;
+		display: inline-block;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	#proposal-pic{
+		width: 150px;
+	}
+
+	#ceremony-map{
+		width: 200px;
+	}
+
+	#old{
+		width: 200px;
+	}
+
+	#new{
+		width: 200px;
+	}
+
+	#parking{
+		width: 200px;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+
+	#about-header{
+		display:none;
+	}
+
+	.section-header{
+		font-size: 70px;
+	}
+
+	#proposal-header{
+		display: none;
+	}
+
+	#photos{
+		display: none;
+	}
+
+	#wedding-header{
+		display:none;
+	}
+
+	#wedding-party{
+		display:none;
+	}
+
+	#registry{
+		display:none;
+	}
+
+	.header-flower{
+		font-size: 60px;
+	}
+
+	.main-container{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.main-photo{
+	display: inline-block;
+	margin: 0px auto;
+	width: 100%;
+	text-align: center;
+}
+
+	#header-pic{
+		width: 500px;
+		display: inline-block;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	#proposal-pic{
+		width: 150px;
+	}
+
+	#ceremony-map{
+		width: 200px;
+	}
+
+	#old{
+		width: 200px;
+	}
+
+	#new{
+		width: 200px;
+	}
+
+	#parking{
+		width: 200px;
+	}
+}
+
+header {
+  min-width: 100%;
+  text-align: center;
+  background-color: #2d4f73;
+  height: 80px;
+  position: fixed !important;
+  z-index: 100000;
+}
+
+/*.main-header{
+	display: block;
+}*/
+
+.mobile-header{
+	display: none;
+}
+
+.wedding-headers{
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 42px;
+	padding: 0px;
+	margin: 0px;
+}
+.header-item{
+	display: inline-block;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #fdfbf5;
+	cursor: pointer;
+}
+
+.dave-lauren{
+	padding: 0px 15px 0px 15px;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #fdfbf5;
+	font-size: 24px;
+	/*display: inline;*/
+}
+
+.header-flower{
+	display: inline;
+	padding: 15px 5px 0px 5px;
+}
+
+.big-flowers{
+	margin: 25px 0px 0px 0px;
+}
+
+.main-container{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.main-photo{
+	display: inline-block;
+	margin: 0px auto;
+	width: 100%;
+	text-align: center;
+}
+
+.about-us-header{
+	width: 50%;
+	margin: 0em auto 0em auto;
+	/*padding: 0px;*/
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-weight: bold;
+	font-size: 55px;
+}
+
+.about{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.proposal{
+	width: 50%;
+	margin: 25px auto 0px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.proposal-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+.wedding{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.wedding-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+/*.mini-flowers{
+	display:block;
+}*/
+
+.photo-container{
+	max-width: 75%;
+	margin: 15px auto;
+	text-align: center;
+	vertical-align: middle;
+	/*display: inline-block;*/
+}
+
+.photo-box{
+	display: inline-block;
+	/*margin: 0 auto;*/
+	/*width: 45%;*/
+}
+
+.circle{
+	width: 10px;
+	height: 10px;
+	background-color: #2d4f73;
+	border-radius: 100%;
+	display: inline-block;
+	margin: 10px 5px;
+}
+
+.photos-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+#circle-1{
+	opacity:1;
+}
+
+#circle-2{
+	opacity:0.5;
+}
+
+#circle-3{
+	opacity:0.5;
+}
+
+#circle-4{
+	opacity:0.5;
+}
+
+#photo-2{
+	display:none;
+}
+
+#photo-3{
+	display:none;
+}
+
+#photo-4{
+	display:none;
+}
+
+.wedding-party-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+.wedding-party{
+	/*width: 50%;*/
+	margin: 50px auto 0px auto;
+	text-align: center;
+}
+
+.bridal-party{
+	display: inline-block;
+	width: 25%;
+	padding: 0px 20px;
+	margin: 0 auto;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.house-party{
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 1.5em;
+}
+
+.party-title{
+	font-family: 'Great Vibes', cursive;
+	font-size: 24px;
+	padding:0px;
+	margin: 0px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	color: #2d4f73;
+	opacity: .8;
+}
+
+
+.groom-party{
+	width: 25%;
+	display: inline-block;
+	padding: 0px 20px;
+	margin: 0 auto;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.registry-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+.registry{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+
+.old-main{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#old{
+	padding-right: 5px;
+}
+
+#new{
+	padding-left: 5px;
+}
+
+.bottom-pic{
+	display: block;
+	margin: 0 auto;
+	border-radius: 100%;
+}
+
