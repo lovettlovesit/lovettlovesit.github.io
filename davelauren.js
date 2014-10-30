@@ -71,26 +71,26 @@ $("#circle-1").on("click", function(){
 })
 
 $("#about-header").on("click", function(){
-	$(window).scrollTop(600)
+	$(window).scrollTop(830)
 })
 
 $("#proposal-header").on("click", function(){
-	$(window).scrollTop(1530)
+	$(window).scrollTop(1730)
 })
 
 $("#photos").on("click", function(){
-	$(window).scrollTop(2760)
+	$(window).scrollTop(3000)
 })
 
 $("#wedding-header").on("click", function(){
-	$(window).scrollTop(3550)
+	$(window).scrollTop(3750)
 })
 
 $("#wedding-party").on("click", function(){
-	$(window).scrollTop(7450)
+	$(window).scrollTop(7700)
 })
 
 $("#registry").on("click", function(){
-	$(window).scrollTop(12705)
+	$(window).scrollTop(13010)
 })
 

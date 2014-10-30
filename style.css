@@ -181,6 +181,16 @@ header {
 	cursor: pointer;
 }
 
+.hashtag{
+	display: inline-block;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	cursor: pointer;
+}
+
 .dave-lauren{
 	padding: 0px 15px 0px 15px;
 	/*font-family: 'Pacifico', cursive;*/
